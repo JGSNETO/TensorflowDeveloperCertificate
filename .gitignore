@@ -1,0 +1,7 @@
+*.zip
+*.tar.gz
+*.tfrecord*
+*.h5
+*.keras
+*.ckpt
+.ipynb_checkpoints/
